@@ -17,11 +17,27 @@
 ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) <!-- MySQL logo -->
 ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) <!-- Excel logo -->
 
+### Database
+<p align="center">
+  <!-- MySQL Icon -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" style="width: 100px;" />
+  </a>
+  
+  <!-- Microsoft SQL Server Icon -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="Microsoft SQL Server" style="width: 100px;" />
+  </a>
+</p>
+
+
+
 ### Programming
 ![Python](https://img.icons8.com/color/48/000000/python.png) <!-- Python logo -->
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) <!-- HTML logo -->
 ![CSS](https://img.icons8.com/color/48/000000/css3.png) <!-- CSS logo -->
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) <!-- JavaScript logo -->
+
 
 ## 🌐 Connect with Me
 <a href="www.linkedin.com/in/arsath-d-687429230" target="_blank">
