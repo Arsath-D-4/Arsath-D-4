@@ -18,19 +18,15 @@
 ![Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019.png) <!-- Excel logo -->
 
 ### Database
-<p align="center">
   <!-- MySQL Icon -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" style="width: 100px;" />
-  </a>
-  
-  <!-- Microsoft SQL Server Icon -->
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" style="width: 50px;" />
+  </a>   
+<!-- Microsoft SQL Server Icon -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="Microsoft SQL Server" style="width: 100px;" />
+    <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="Microsoft SQL Server" style="width: 50px;" />
   </a>
 </p>
-
-
 
 ### Programming
 ![Python](https://img.icons8.com/color/48/000000/python.png) <!-- Python logo -->
