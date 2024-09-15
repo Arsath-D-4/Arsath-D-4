@@ -37,7 +37,7 @@
 
 
 ## 🌐 Connect with Me
-<a href="www.linkedin.com/in/arsath-d-687429230" target="_blank">
+<a href="https://linkedin.com/in/arsath-d-687429230" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="35"/>
   </a>
 
